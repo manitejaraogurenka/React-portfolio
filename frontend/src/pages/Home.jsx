@@ -158,7 +158,7 @@ const Home = () => {
             />
           </a>
           <a
-            href="https://www.linkedin.com/in/manitejagurenka/"
+            href="https://www.linkedin.com/in/manitejaraogurenka/"
             className="p-1 rounded-full resume-btn"
           >
             <BsLinkedin
@@ -262,7 +262,7 @@ const Home = () => {
                 <div className="WheelItemInner">
                   <a
                     className="WheelLink"
-                    href="https://www.linkedin.com/in/manitejagurenka/"
+                    href="https://www.linkedin.com/in/manitejaraogurenka/"
                   >
                     <span className="WheelIcon  p-3 rounded-ful">
                       <BsLinkedin
