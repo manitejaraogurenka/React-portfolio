@@ -8,7 +8,11 @@ app.use(morgan("tiny"));
 
 app.use(
   cors({
-    origin: ["https://www.manitejaraogurenka.com", "http://localhost:3000"],
+    origin: [
+      "https://www.manitejaraogurenka.com",
+      "https://manitejaraogurenkaapi.vercel.app/",
+      "http://localhost:3000",
+    ],
     methods: ["GET", "POST", "PUT", "PATCH", "DELETE"],
     allowedHeaders: ["Content-Type"],
   })
