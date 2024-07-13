@@ -14,8 +14,8 @@ import useIntersectionObserver from "./utils/useIntersectionObserver";
 import { useDispatch } from "react-redux";
 import { navbarActions } from "./store/navbarSlice";
 import { Toaster } from "react-hot-toast";
-import Preloader from "./components/PreLoader";
-import usePreload from "./utils/usePreload";
+// import Preloader from "./components/PreLoader";
+// import usePreload from "./utils/usePreload";
 
 function App() {
   useEffect(() => {
@@ -69,26 +69,26 @@ function App() {
     options
   );
 
-  const filesToPreload = [
-    "/cursor.cur",
-    "/Resume Maniteja Gurenka.docx",
-    "/Audio/CircularMenu.mp3",
-    "/Audio/Email_sent.mp3",
-    "/Audio/Lang_select.mp3",
-    "/Audio/My_name_is_maniteja_Gurenka.mp3",
-    "/Audio/Navbar_select.mp3",
-    "/Audio/Skill_choose.mp3",
-  ];
+  // const filesToPreload = [
+  //   "/cursor.cur",
+  //   "/Resume Maniteja Gurenka.docx",
+  //   "/Audio/CircularMenu.mp3",
+  //   "/Audio/Email_sent.mp3",
+  //   "/Audio/Lang_select.mp3",
+  //   "/Audio/My_name_is_maniteja_Gurenka.mp3",
+  //   "/Audio/Navbar_select.mp3",
+  //   "/Audio/Skill_choose.mp3",
+  // ];
 
-  const { isLoaded, hasError } = usePreload(filesToPreload);
+  // const { isLoaded, hasError } = usePreload(filesToPreload);
 
-  if (hasError) {
-    return <div>Error loading resources. Please try again later.</div>;
-  }
+  // if (hasError) {
+  //   return <div>Error loading resources. Please try again later.</div>;
+  // }
 
-  if (!isLoaded) {
-    return <Preloader />;
-  }
+  // if (!isLoaded) {
+  //   return <Preloader />;
+  // }
 
   return (
     <Router>
