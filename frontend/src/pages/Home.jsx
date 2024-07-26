@@ -47,7 +47,7 @@ const Home = () => {
 
   const documents = [
     {
-      uri: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Maniteja%20Gurenka's%20Resume",
+      uri: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Maniteja%20Gurenka%20Resume.docx",
       fileType: "docx",
       fileName: "Maniteja Gurenka's Resume",
     },
