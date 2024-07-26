@@ -16,6 +16,7 @@ import { navbarActions } from "./store/navbarSlice";
 import { Toaster } from "react-hot-toast";
 // import Preloader from "./components/PreLoader";
 // import usePreload from "./utils/usePreload";
+import { Analytics } from "@vercel/analytics";
 
 function App() {
   useEffect(() => {
@@ -93,6 +94,7 @@ function App() {
   return (
     <Router>
       <div className="bg-black h-screen w-screen">
+        <Analytics />
         <Cursor />
         <Toaster position="bottom-left" reverseOrder={false} />
         <Navbar />
