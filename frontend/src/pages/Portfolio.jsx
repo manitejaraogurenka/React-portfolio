@@ -8,7 +8,7 @@ import { FaCaretSquareLeft, FaCaretSquareRight } from "react-icons/fa";
 const projects = [
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/D562DAQH5jyuGFYUpdA/profile-treasury-image-shrink_800_800/0/1719545455117?e=1721844000&v=beta&t=LCWlr9KWhz73Loa7QDRElfLzm1Ge2aF204hl9CIW6t8",
+    img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/ChatLub.jpeg",
     url: "https://github.com/manitejaraogurenka/ChatLub",
     about:
       "ChatLub is a modern MERN stack chat web app with Socket.io for real-time communication. It features MongoDB, Express.js, React, Redux, Tailwind CSS, and Node.js for seamless, responsive chats. Key functionalities include instant messaging, user authentication, and chat room creation/joining, all powered by Socket.io for real-time updates.",
@@ -16,7 +16,7 @@ const projects = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/D562DAQHbhNXuTCsKiw/profile-treasury-image-shrink_800_800/0/1719545935084?e=1721844000&v=beta&t=BZX53NiaiFauxBfUCG1Zw0qHFEhH59nQkyZ10Vjz930",
+    img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Login.jpeg",
     url: "https://github.com/manitejaraogurenka/Login-web-app",
     about:
       "A full-stack (MERN) login web application with features like profile updates and password recovery in addition to enhanced authentication and permission using a token system.",
@@ -24,7 +24,7 @@ const projects = [
   },
   {
     id: 3,
-    img: "https://media.licdn.com/dms/image/D562DAQGMd8XjwR1d_Q/profile-treasury-image-shrink_800_800/0/1719547166005?e=1721844000&v=beta&t=SQ4vtwHjGXPIiaMjVOMrSASNiKz-hj2oMWXtgT46kjI",
+    img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Crypto.jpeg",
     url: "https://github.com/manitejaraogurenka/cryptotracker",
     about:
       "A web application for tracking real-time cryptocurrency prices and trends, built with React and Node.js.",
@@ -32,7 +32,7 @@ const projects = [
   },
   {
     id: 4,
-    img: "https://media.licdn.com/dms/image/D562DAQHaT_GUWZlWvQ/profile-treasury-image-shrink_800_800/0/1719545600312?e=1721844000&v=beta&t=CRGeTkEx3g4QlcnNX30NpRmZMtYGTLna3Vv6GKffF9I",
+    img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Coffee.jpeg",
     url: "https://manitejaraogurenka.github.io/coffee-haven/",
     about:
       "Coffee Haven is a sleek and modern website crafted with ReactJS and Tailwind CSS, offering a seamless user experience for coffee enthusiasts.",
@@ -40,7 +40,7 @@ const projects = [
   },
   {
     id: 5,
-    img: "https://media.licdn.com/dms/image/D562DAQGOSzUPODL3KA/profile-treasury-image-shrink_800_800/0/1719546253188?e=1721844000&v=beta&t=AD0-qPnYg0sj-Oy7RRZfYWydwWzz1bq_5UdVov0426g",
+    img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Taskmaster.jpeg",
     url: "https://manitejaraogurenka.github.io/task-master/",
     about:
       "Task Master is a to-do app built using TypeScript and React.js. This app includes a drag-and-drop feature along with all the necessary task management functionalities.",
@@ -48,7 +48,7 @@ const projects = [
   },
   {
     id: 6,
-    img: "https://media.licdn.com/dms/image/D562DAQEvK3MBY1lwTA/profile-treasury-image-shrink_800_800/0/1719546303188?e=1721844000&v=beta&t=m8qVtKzl9fnFhcwEdcGvqRgbrAwAkbHlR_MVNbORHWc",
+    img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Recipies.jpeg",
     url: "https://manitejaraogurenka.github.io/The-Recipes/",
     about:
       "This is a recipes web app with 5000+ recipes, and it is built with optimized search and sort functionality. and this app is built without depending on Reactjs.",
@@ -56,7 +56,7 @@ const projects = [
   },
   {
     id: 7,
-    img: "https://media.licdn.com/dms/image/D562DAQHPeMzGqJs6JQ/profile-treasury-image-shrink_800_800/0/1719546370136?e=1721844000&v=beta&t=O0jIi0QmKx-_GfgTZIs_lbv8BVd95J_TZL81y5pIXwo",
+    img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/1k%20movies.jpeg",
     url: "https://manitejaraogurenka.github.io/Top-1000-Movies/",
     about:
       "This is a web app that gives information on the world's top 1000 IMDB-rated movies, and this app has many features like search and sort by movie info and these app is built without depending upon Reactjs.",
@@ -64,7 +64,7 @@ const projects = [
   },
   {
     id: 8,
-    img: "https://media.licdn.com/dms/image/D562DAQG2qt3iMaoCdA/profile-treasury-image-shrink_800_800/0/1719546147138?e=1721844000&v=beta&t=aG9b7Xbw_o3RJB9aiJwm_hoaYdEy9aXC5Ei9QBij0VE",
+    img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Notedown.jpeg",
     url: "https://manitejaraogurenka.github.io/NoteDown-vanillaJS/index.html",
     about:
       "A notes web app that has more features and was developed completely using vanilla JavaScript.",
