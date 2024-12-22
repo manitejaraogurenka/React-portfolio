@@ -25,7 +25,7 @@ const projects = [
   {
     id: 3,
     img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Crypto.jpeg",
-    url: "cryptotrackingapp.vercel.app",
+    url: "https://cryptotrackingapp.vercel.app",
     about:
       "A web application for tracking real-time cryptocurrency prices and trends, built with React and Node.js.",
     name: "Crypto tracker",
@@ -41,7 +41,7 @@ const projects = [
   {
     id: 5,
     img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Pocket%20notes-uReDLpsIrDfT471KGkPVgaY71fNspx.png",
-    url: "pocketnotesapp.vercel.app",
+    url: "https://pocketnotesapp.vercel.app",
     about:
       "Pocket Notes is a ReactJS-based app for efficient note management. It lets users create groups, add, edit, delete notes, and organize them effectively. With a powerful search feature for both groups and notes, finding information is quick and effortless.",
     name: "Pocket Notes",
