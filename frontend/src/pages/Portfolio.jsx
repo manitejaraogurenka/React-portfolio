@@ -25,7 +25,7 @@ const projects = [
   {
     id: 3,
     img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Crypto.jpeg",
-    url: "https://github.com/manitejaraogurenka/cryptotracker",
+    url: "cryptotrackingapp.vercel.app",
     about:
       "A web application for tracking real-time cryptocurrency prices and trends, built with React and Node.js.",
     name: "Crypto tracker",
@@ -40,6 +40,14 @@ const projects = [
   },
   {
     id: 5,
+    img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Pocket%20notes-uReDLpsIrDfT471KGkPVgaY71fNspx.png",
+    url: "pocketnotesapp.vercel.app",
+    about:
+      "Pocket Notes is a ReactJS-based app for efficient note management. It lets users create groups, add, edit, delete notes, and organize them effectively. With a powerful search feature for both groups and notes, finding information is quick and effortless.",
+    name: "Pocket Notes",
+  },
+  {
+    id: 6,
     img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Taskmaster.jpeg",
     url: "https://manitejaraogurenka.github.io/task-master/",
     about:
@@ -47,7 +55,7 @@ const projects = [
     name: "Task Master",
   },
   {
-    id: 6,
+    id: 7,
     img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Recipies.jpeg",
     url: "https://manitejaraogurenka.github.io/The-Recipes/",
     about:
@@ -55,7 +63,7 @@ const projects = [
     name: "The Recipes",
   },
   {
-    id: 7,
+    id: 8,
     img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/1k%20movies.jpeg",
     url: "https://manitejaraogurenka.github.io/Top-1000-Movies/",
     about:
@@ -63,7 +71,7 @@ const projects = [
     name: "Top 1k movies",
   },
   {
-    id: 8,
+    id: 9,
     img: "https://rn6nfrrfhoitavfo.public.blob.vercel-storage.com/Notedown.jpeg",
     url: "https://manitejaraogurenka.github.io/NoteDown-vanillaJS/index.html",
     about:
